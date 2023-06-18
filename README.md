@@ -53,8 +53,20 @@ A Notepad++ plugin to neutralize and restore the functionality of Indicators of 
 |       `[/]` -> `/`        |
 
 # Authors
-- 0x4427 - [Twitter](https://twitter.com/0x4427/) | [LinkedIn](https://www.linkedin.com/in/varun-singh-5944b9222/) | [Github](https://github.com/0x4427/)
-- knight0x07 - [Twitter](https://twitter.com/knight0x07/) | [LinkedIn](https://www.linkedin.com/in/niraj-s/) | [Github](https://github.com/knight0x07/)
+
+### 0x4427
+  
+[<img align="left" width="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673026-44eca0ae-3020-4041-86f4-778f7236e3dc.svg">](https://twitter.com/0x4427/) 
+[<img align="left" width="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673032-6ab6cd40-918e-429f-9905-c93750dfa35c.svg">](https://linkedin.com/0x4427/) 
+[<img align="left" width="55px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673029-1380eb15-d262-40e6-928f-1321a9338e41.svg">](https://github.com/0x4427/)
+<br/> &nbsp;
+
+### knight0x07
+
+[<img align="left" width="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673026-44eca0ae-3020-4041-86f4-778f7236e3dc.svg">](https://twitter.com/knight0x07/) 
+[<img align="left" width="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673032-6ab6cd40-918e-429f-9905-c93750dfa35c.svg">](https://linkedin.com/niraj-s/) 
+[<img align="left" width="55px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673029-1380eb15-d262-40e6-928f-1321a9338e41.svg">](https://github.com/knight0x07/)
+
 
 # Misc
 This plugin has been created using the Notepad++ pluginpack for .Net https://github.com/kbilsted/NotepadPlusPlusPluginPack.Net/releases
