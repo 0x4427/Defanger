@@ -23,7 +23,7 @@ A Notepad++ plugin to neutralize and restore the functionality of Indicators of 
 
 - `Auto Defang All` defangs all the valid URLs, domains and IP addresses found in the document while excluding the invalid ones.
 
-![new1](https://github.com/varun7244/Defanger-1/assets/72227999/a3f4aa9f-8910-40d3-a78a-8699538628a0)
+![new1](https://github.com/0x4427/Defanger/assets/91937971/1ae6a97a-0b5f-439c-9023-276a1fa4aafb)
 
 - Defanged all text in the document excluding one invalid IP address.
 
