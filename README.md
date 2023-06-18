@@ -30,13 +30,12 @@ A Notepad++ plugin to neutralize and restore the functionality of Indicators of 
 ![new2](https://github.com/0x4427/Defanger/assets/91937971/c02b4ba4-25bb-40c8-9f44-6e025812b7d8)
 
 - `Refang` and `Auto Refang All` supported styles
-&nbsp;
 
 ![fubal1](https://github.com/0x4427/Defanger/assets/91937971/7b467a6a-1371-460e-9bdc-da910590ca63)
 
 - Refanged output
+  
 ![final ](https://github.com/0x4427/Defanger/assets/91937971/061893b7-bce4-4e63-b612-a07e28398abe)
-&nbsp;
 
 | Styles                |
 |---------------------------|                                    
