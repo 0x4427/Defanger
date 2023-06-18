@@ -68,5 +68,6 @@ A Notepad++ plugin to neutralize and restore the functionality of Indicators of 
 [<img align="left" width="55px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673029-1380eb15-d262-40e6-928f-1321a9338e41.svg">](https://github.com/knight0x07/)
 
 
+
 # Misc
 This plugin has been created using the Notepad++ pluginpack for .Net https://github.com/kbilsted/NotepadPlusPlusPluginPack.Net/releases
